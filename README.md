@@ -1,2 +1,2 @@
 # Xuzhou-SBSS
-It is a data sharing policy repository for Xuzhou SBSS.
+It is code and data sharing repository for Xuzhou SBSS.
